@@ -1,0 +1,32 @@
+body{
+    background-color:bisque;
+}
+h1{ 
+    
+    size: 20px;
+
+}
+.img{
+    background-color:aquamarine
+}
+
+.mushroom{
+    background-color:azure
+}
+
+.tree{
+    background-color:aquamarine
+}
+
+.broccoli{
+    background-color:black
+}
+
+.circular{
+    border-radius:100%
+
+}
+
+#heading{
+    color:blueviolet
+}
